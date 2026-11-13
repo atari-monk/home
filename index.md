@@ -1,9 +1,13 @@
 ## dom
 
-- [Cel Projektu](content/cel-projektu.md)
-- [Fundament Punktowy](content/fundament-punktowy.md)
+- [główne założenia](content/główne-założenia.md)
+- [plan budynku](content/plan-budynku.md)
 
-### generacja mowy
+### fundament punktowy
 
-- [Cel Projetu](tts/cel-projektu.txt)
-- [Fundament Punktowy](tts/fundament-punktowy.txt)
+- [lista zadań](content/fundament-punktowy/lista-zadań.md)
+- [przygotowanie terenu](content/fundament-punktowy/przygotowanie-terenu.md)
+
+### tekst do generacji mowy
+
+- [główne założenia](tts/główne-założenia.txt)
